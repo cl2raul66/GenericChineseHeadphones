@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Service/Service.csproj" />
+  <Project Path="TestApp/TestApp.csproj" Id="64e7864d-9799-44bf-8b3a-20ede64e3006" />
+</Solution>
